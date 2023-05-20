@@ -7,7 +7,7 @@
 # About Me
 - 🔭 I'm currently working as a software engineer with expertise in developing web applications using Python, Flask, Node, React.
 - 🌱 I'm currently focusing on deep learning and exploring frameworks like TensorFlow and Keras.
-- 💼 I have strong web development skills and experience working with HTML, CSS, JavaScript, and popular frameworks like React and Django.
+- 💼 I have strong web development skills and experience working with HTML, CSS, JavaScript, and popular frameworks like React, Vit and Flask.
 - ⛓️ I'm also enthusiastic about blockchain technology and have experience in developing decentralized applications (DApps) using Solidity and Ethereum.
 - 💬 Ask me about my previous experience in software, web development, or blockchain—I'd be glad to share my journey.
 - 📫 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/arunangshu-das/) or visit [my website](https://arunangshu.in/) to connect.
