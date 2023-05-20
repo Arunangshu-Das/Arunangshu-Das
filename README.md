@@ -5,10 +5,11 @@
 ## I'm passionate about software development, web development, and machine learning, and I'm constantly expanding my knowledge in these areas.
 
 # About Me
-- 🔭 I'm currently working as a software engineer with expertise in developing web applications using Python, Flask, Node, React.
-- 🌱 I'm currently focusing on deep learning and exploring frameworks like TensorFlow and Keras.
-- 💼 I have strong web development skills and experience working with HTML, CSS, JavaScript, and popular frameworks like React, Vit and Flask.
-- ⛓️ I'm also enthusiastic about blockchain technology and have experience in developing decentralized applications (DApps) using Solidity and Ethereum.
+- 🔭 I have a strong foundation in both frontend and backend development, and I thoroughly enjoy crafting interactive and user-friendly web applications.
+- 💼 As a web developer, I'm proficient in HTML, CSS, and JavaScript, and I have experience working with popular frameworks like React and Django. I'm passionate about creating seamless and visually appealing website designs.
+- ⚙️ On the data science front, I specialize in machine learning and deep learning. I love building models, analyzing data, and extracting valuable insights from complex datasets. I have a solid understanding of algorithms and data structures, and I'm particularly proud of my 5-star rating in problem-solving.
+- ⛓️ Additionally, I am deeply fascinated by blockchain technology and its potential to revolutionize various industries. I have hands-on experience developing decentralized applications (DApps) using Solidity and Ethereum.
+- 🌱 I'm always eager to enhance my knowledge and skills. Currently, I'm focusing on advancing my expertise in web development, machine learning, and blockchain to stay at the forefront of these rapidly evolving fields.
 - 💬 Ask me about my previous experience in software, web development, or blockchain—I'd be glad to share my journey.
 - 📫 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/arunangshu-das/) or visit [my website](https://arunangshu.in/) to connect.
 
