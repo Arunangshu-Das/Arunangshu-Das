@@ -43,15 +43,20 @@ I'm excited about collaborating on machine learning projects, web development pr
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Pytorch-FF6F00?style=flat&logo=python&logoColor=white" alt="Machine Learning">
+  <img src="https://img.shields.io/badge/Pytoch-FF6F00?style=flat&logo=python&logoColor=white" alt="Machine Learning">
   <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=python&logoColor=white" alt="Deep Learning">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" alt="React">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon%20aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Video%20Editing-FF5733?style=flat&logo=adobe%20premiere%20pro&logoColor=white" alt="Video Editing">
+  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoft%20powerpoint&logoColor=white" alt="PowerPoint">
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft%20excel&logoColor=white" alt="Excel">
+  <img src="https://img.shields.io/badge/Data%20Analytics-FF5733?style=flat&logo=google%20analytics&logoColor=white" alt="Data Analytics">
+  <img src="https://img.shields.io/badge/Backend%20Tools-333333?style=flat&logo=express&logoColor=white" alt="Backend Tools">
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white" alt="Three.js">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobe%20photoshop&logoColor=white" alt="Photoshop">
-  <img src="https://img.shields.io/badge/Video%20Editing-FF5733?style=flat&logo=adobe%20premiere%20pro&logoColor=white" alt="Video Editing">
 </p>
 
 ### 💬 Ask me about ...
