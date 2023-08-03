@@ -17,7 +17,7 @@
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arunangshu-Das&show_icons=true&layout=compact&theme=merko&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arunangshu-Das&langs_count=8&show_icons=true&layout=compact&theme=merko&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arunangshu-Das&langs_count=8&layout=compact&theme=merko&hide_border=true)
 
 ### Collaboration
 I'm excited about collaborating on machine learning projects, web development projects, or blockchain-related initiatives. If you have any interesting ideas or ongoing projects, don't hesitate to reach out to me on [LinkedIn](https://www.linkedin.com/in/arunangshu-das/)!
