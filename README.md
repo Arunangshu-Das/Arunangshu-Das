@@ -12,11 +12,12 @@
 - 🌱 I'm always eager to enhance my knowledge and skills. Currently, I'm focusing on advancing my expertise in web development, machine learning, and blockchain to stay at the forefront of these rapidly evolving fields.
 - 💬 Ask me about my previous experience in software, web development, or blockchain—I'd be glad to share my journey.
 - 📫 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/arunangshu-das/) or visit [my website](https://arunangshu.in/) to connect.
-
-[![Arunangshu's github stats](https://github-readme-stats.vercel.app/api?username=Arunangshu-Das&show_icons=true&line_height=21&show_icons=true&theme=merko&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
+[![Arunangshu's github stats](https://github-readme-stats.vercel.app/api?username=Arunangshu-Das&show_icons=true&line_height=21&show_icons=true&theme=merko&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arunangshu-Das&show_icons=true&layout=compact&theme=merko&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
+[![Arunangshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arunangshu-Das)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arunangshu-Das&langs_count=8&theme=merko&hide_border=true)
 
 ### Collaboration
