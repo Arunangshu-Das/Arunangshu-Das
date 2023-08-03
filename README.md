@@ -13,6 +13,12 @@
 - 💬 Ask me about my previous experience in software, web development, or blockchain—I'd be glad to share my journey.
 - 📫 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/arunangshu-das/) or visit [my website](https://arunangshu.in/) to connect.
 
+* JavaScript: 25.06%
+* CSS: 4.07%
+* Machine learning: 40.56%
+* Java: 30.31%
+
+
 ### Collaboration
 I'm excited about collaborating on machine learning projects, web development projects, or blockchain-related initiatives. If you have any interesting ideas or ongoing projects, don't hesitate to reach out to me on [LinkedIn](https://www.linkedin.com/in/arunangshu-das/)!
 
