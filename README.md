@@ -16,6 +16,25 @@
 ### Collaboration
 I'm excited about collaborating on machine learning projects, web development projects, or blockchain-related initiatives. If you have any interesting ideas or ongoing projects, don't hesitate to reach out to me on [LinkedIn](https://www.linkedin.com/in/arunangshu-das/)!
 
+# Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/arunangshu-das/"><img src="https://img.shields.io/badge/LinkedIn-bhargab--sarmah--077563152-blue" alt="LinkedIn"></a>
+  <a href="https://github.com/Arunangshu-Das"><img src="https://img.shields.io/badge/GitHub-bhargab--xarmah-lightgrey" alt="GitHub"></a>
+  <a href="https://www.instagram.com/call_me_arunangshu/"><img src="https://img.shields.io/badge/Instagram-bhargabsarmah30-red" alt="Instagram"></a>
+</p>
+
+# Languages and Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobe%20photoshop&logoColor=white" alt="Photoshop">
+</p>
+
 ### 💬 Ask me about ...
 If you have any questions about software development, web development, blockchain, or machine learning, feel free to contact me on my [LinkedIn](https://www.linkedin.com/in/arunangshu-das/) profile. I'm always ready to discuss ideas and answer your queries!
 
