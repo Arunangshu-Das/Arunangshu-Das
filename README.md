@@ -13,7 +13,7 @@
 - 💬 Ask me about my previous experience in software, web development, or blockchain—I'd be glad to share my journey.
 - 📫 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/arunangshu-das/) or visit [my website](https://arunangshu.in/) to connect.
 
-[![Swagata's github stats](https://github-readme-stats.vercel.app/api?username=Arunangshu-Das&show_icons=true&line_height=21&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Arunangshu's github stats](https://github-readme-stats.vercel.app/api?username=Arunangshu-Das&show_icons=true&line_height=21&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arunangshu-Das&show_icons=true&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
