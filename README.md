@@ -13,7 +13,7 @@
 - 💬 Ask me about my previous experience in software, web development, or blockchain—I'd be glad to share my journey.
 - 📫 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/arunangshu-das/) or visit [my website](https://arunangshu.in/) to connect.
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true)](https://github.com/Arunangshu-Das)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arunangshu-Das&show_icons=true)](https://github.com/Arunangshu-Das)
 
 * JavaScript
 * CSS
