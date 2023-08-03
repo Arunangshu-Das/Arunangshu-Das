@@ -43,8 +43,8 @@ I'm excited about collaborating on machine learning projects, web development pr
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=python&logoColor=white" alt="Machine Learning">
-  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat&logo=python&logoColor=white" alt="Deep Learning">
+  <img src="https://img.shields.io/badge/Pytorch-FF6F00?style=flat&logo=python&logoColor=white" alt="Machine Learning">
+  <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=python&logoColor=white" alt="Deep Learning">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" alt="React">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon%20aws&logoColor=white" alt="AWS">
