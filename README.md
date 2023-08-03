@@ -13,20 +13,8 @@
 - 💬 Ask me about my previous experience in software, web development, or blockchain—I'd be glad to share my journey.
 - 📫 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/arunangshu-das/) or visit [my website](https://arunangshu.in/) to connect.
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arunangshu-Das&show_icons=true)](https://github.com/Arunangshu-Das)
-
-* JavaScript
-* CSS
-* Machine learning
-* Java
-* C++
-
-
-* JavaScript: 25.06%
-* CSS: 4.00%
-* Machine learning: 40.56%
-* Java: 30.31%
-* C++: 0.07%
+[![Swagata's github stats](https://github-readme-stats.vercel.app/api?username=Arunangshu-Das&show_icons=true&line_height=21&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arunangshu-Das&show_icons=true&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Collaboration
