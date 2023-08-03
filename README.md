@@ -19,9 +19,9 @@ I'm excited about collaborating on machine learning projects, web development pr
 # Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/arunangshu-das/"><img src="https://img.shields.io/badge/LinkedIn-Arunangshu-Das-blue" alt="LinkedIn"></a>
-  <a href="https://github.com/Arunangshu-Das"><img src="https://img.shields.io/badge/GitHub-Arunangshu-Das-lightgrey" alt="GitHub"></a>
-  <a href="https://www.instagram.com/call_me_arunangshu/"><img src="https://img.shields.io/badge/Instagram-Arunangshu-Das-red" alt="Instagram"></a>
+  <a href="https://www.linkedin.com/in/arunangshu-das/"><img src="https://img.shields.io/badge/LinkedIn-arunangshu--das-blue" alt="LinkedIn"></a>
+  <a href="https://github.com/Arunangshu-Das"><img src="https://img.shields.io/badge/GitHub-arunangshu-lightgrey" alt="GitHub"></a>
+  <a href="https://www.instagram.com/call_me_arunangshu/"><img src="https://img.shields.io/badge/Instagram-arunangshu-red" alt="Instagram"></a>
 </p>
 
 # Languages and Tools
