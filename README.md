@@ -18,7 +18,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arunangshu-Das&show_icons=true&layout=compact&theme=merko&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
 [![Arunangshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arunangshu-Das)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arunangshu-Das&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arunangshu-Das&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arunangshu-Das&langs_count=8&theme=merko&hide_border=true)
 
 ### Collaboration
