@@ -19,7 +19,9 @@
 -->
 [![Arunangshu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?theme=codeSTACKr&username=Arunangshu)](https://github.com/anuraghazra/github-readme-stats)
 ![Arunangshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arunangshu-Das&show=reviews&theme=codeSTACKr&rank_icon=github)
-<center> <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Arunangshu-Das&langs_count=8&theme=codeSTACKr&hide_border=true'> </center>
+<div align="center">
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Arunangshu-Das&langs_count=8&theme=codeSTACKr&hide_border=true'> 
+</div>
 
 
 ### Collaboration
