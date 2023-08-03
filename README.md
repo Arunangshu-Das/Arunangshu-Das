@@ -17,9 +17,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arunangshu-Das&show_icons=true&layout=compact&theme=merko&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arunangshu-Das&show=reviews&theme=codeSTACKr)
+![Arunangshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arunangshu-Das&show=reviews&theme=codeSTACKr)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arunangshu-Das&langs_count=8&theme=codeSTACKr&hide_border=true)
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Arunangshu)](https://github.com/anuraghazra/github-readme-stats)
+[![Arunangshu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Arunangshu&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Collaboration
 I'm excited about collaborating on machine learning projects, web development projects, or blockchain-related initiatives. If you have any interesting ideas or ongoing projects, don't hesitate to reach out to me on [LinkedIn](https://www.linkedin.com/in/arunangshu-das/)!
