@@ -11,7 +11,7 @@
 - ⛓️ Additionally, I am deeply fascinated by blockchain technology and its potential to revolutionize various industries. I have hands-on experience developing decentralized applications (DApps) using Solidity and Ethereum.
 - 🌱 I'm always eager to enhance my knowledge and skills. Currently, I'm focusing on advancing my expertise in web development, machine learning, and blockchain to stay at the forefront of these rapidly evolving fields.
 - 💬 Ask me about my previous experience in software, web development, or blockchain—I'd be glad to share my journey.
-- 📫 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/arunangshu-das/) or visit [my website](https://arunangshu.in/) to connect.
+- 📫 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/arunangshu-das/) or visit [my website](https://arunangshudas.com/) to connect.
 <!--
 [![Arunangshu's github stats](https://github-readme-stats.vercel.app/api?username=Arunangshu-Das&show_icons=true&line_height=21&show_icons=true&theme=merko&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -28,7 +28,7 @@ I'm excited about collaborating on machine learning projects, web development pr
 # Connect with Me
 
 <p align="center">
-  <a href="https://arunangshu.in"><img src="https://img.shields.io/badge/Website-arunangshu.in-brightgreen" alt="Personal Website"></a>
+  <a href="https://arunangshudas.com/"><img src="https://img.shields.io/badge/Website-arunangshudas.com-brightgreen" alt="Personal Website"></a>
   <a href="https://www.linkedin.com/in/arunangshu-das/"><img src="https://img.shields.io/badge/LinkedIn-arunangshu--das-blue" alt="LinkedIn"></a>
   <a href="https://github.com/Arunangshu-Das"><img src="https://img.shields.io/badge/GitHub-arunangshu-lightgrey" alt="GitHub"></a>
   <a href="https://www.instagram.com/call_me_arunangshu/"><img src="https://img.shields.io/badge/Instagram-arunangshu-red" alt="Instagram"></a>
